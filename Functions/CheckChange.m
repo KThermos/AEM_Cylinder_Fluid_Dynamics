@@ -17,7 +17,7 @@ for i = 1:num_items
     end
 end
 
-%This seems like an ugly way to do it.
+%This seems like an ugly way to do it, but ok.
 if diff<1
     diff = 0;
 else
