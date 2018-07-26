@@ -1,6 +1,6 @@
 # AEM_Cylinder_Fluid_Dynamics
 
-This is an application to model the flow of a fluid around a series of impermeable cylinders.
+This is an application to model the flow of a fluid around a series of impermeable cylinders. It shows streamlines (the path that the fluid takes as it flows past the impermeable cylinders) and pressure gradients. 
 
 The solution is based on the Analytic Element Method and COmplex Variable Method developed by Otto DL Strack. 
 
